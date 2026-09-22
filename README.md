@@ -180,21 +180,21 @@ mvn test
 ### Main Menu Interface
 ```
 ╔══════════════════════════════════════════════════════════╗
-║        💼  PERSONAL PORTFOLIO TRACKER  v1.0              ║
+║          PERSONAL PORTFOLIO TRACKER  v1.0              ║
 ║        Track Stocks • Crypto • Mutual Funds              ║
 ╚══════════════════════════════════════════════════════════╝
 
 ═══════════════ MAIN MENU ═══════════════
-  1. ➕  Add New Asset
-  2. 📋  View All Assets
-  3. 📊  Portfolio Summary
-  4. 💲  Update Current Price
-  5. 🗑️   Delete Asset
-  6. 🔍  Search Assets
-  7. 📈  View Sorted by P&L
-  8. 🗂️   View by Asset Type
-  9. 💾  Export Reports
-  0. 🚪  Exit
+  1.   Add New Asset
+  2.    View All Assets
+  3.    Portfolio Summary
+  4.    Update Current Price
+  5.    Delete Asset
+  6.    Search Assets
+  7.    View Sorted by P&L
+  8.    View by Asset Type
+  9.    Export Reports
+  0.    Exit
 ═════════════════════════════════════════
 Enter your choice: 
 ```
