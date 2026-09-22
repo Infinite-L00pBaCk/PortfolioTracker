@@ -1,10 +1,10 @@
-# 💼 Personal Portfolio Tracker
+# Personal Portfolio Tracker
 
 > A modular, command-line Java application to track Stocks, Cryptocurrencies, and Mutual Funds — featuring persistent SQLite storage, file I/O export reports, multi-criteria sorting, and an extensive JUnit 5 test suite adhering to full Object-Oriented Programming (OOP) design.
 
 ---
 
-## 📋 Course & Project Information
+##  Course & Project Information
 
 | Field | Details |
 |:---|:---|
@@ -17,7 +17,7 @@
 
 ---
 
-## 🏛️ Project Architecture & Layout
+##  Project Architecture & Layout
 
 ```
 PortfolioTracker/
@@ -67,7 +67,7 @@ PortfolioTracker/
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Add Assets (CRUD - Create)**: Multi-asset support (Stocks, Cryptocurrencies, and Mutual Funds) with type-specific attributes.
 - **View Portfolio (CRUD - Read)**: Formatted table with live P&L, percentage returns, and directional status indicators.
@@ -82,7 +82,7 @@ PortfolioTracker/
 
 ---
 
-## 🔒 Non-Functional Requirements (NFRs)
+##  Non-Functional Requirements (NFRs)
 
 In adherence to Section 2.2 of the VITyarthi guidelines, the system implements:
 
@@ -101,7 +101,7 @@ In adherence to Section 2.2 of the VITyarthi guidelines, the system implements:
 
 ---
 
-## 🛠️ Setup & Execution
+##  Setup & Execution
 
 ### Prerequisites
 - **Java JDK 17 or higher** ([Download from Adoptium](https://adoptium.net))
@@ -154,7 +154,7 @@ mvn exec:java
 
 ---
 
-## 🧪 Automated Testing Instructions
+##  Automated Testing Instructions
 
 The project contains a comprehensive automated test suite in `src/test/java/` covering domain models, service business logic, and input validation.
 
@@ -175,7 +175,7 @@ mvn test
 
 ---
 
-## 🖥️ Application Previews & Sample Run
+##  Application Previews & Sample Run
 
 ### Main Menu Interface
 ```
@@ -212,7 +212,7 @@ Enter your choice:
 
 ### Consolidated Portfolio Summary
 ```
-📊 PORTFOLIO SUMMARY
+ PORTFOLIO SUMMARY
 ──────────────────────────────────────────────────
   Total Invested              : ₹ 280,000.00
   Current Value               : ₹ 314,000.00
@@ -227,7 +227,7 @@ Enter your choice:
 
 ---
 
-## 🎓 Java Concepts & Curriculum Alignment (Units 1–5)
+##  Java Concepts & Curriculum Alignment (Units 1–5)
 
 - **Unit 1 & 2: Object-Oriented Programming**:
   - `Asset` (Abstract base class), `Stock`, `Crypto`, `MutualFund` (Inheritance & Polymorphism).
@@ -246,7 +246,7 @@ Enter your choice:
 
 ---
 
-## 📚 References
+##  References
 
 1. Herbert Schildt, *Java: The Complete Reference*, 11th Edition, Oracle Press, 2018.
 2. Paul Deitel & Harvey Deitel, *Java How to Program (Early Objects)*, 10th Edition, Pearson, 2015.
